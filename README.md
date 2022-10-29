@@ -1,5 +1,5 @@
-# Secure E-Commerce Group Assignment
-### Group Members:
-1. s3840848 - Aaron Cartledge
-2. s3622180 - Michael Blakebrough
-3. s3508768 - Patrick La
+# Basic Shopping Cart Website made in 2021 at RMIT
+### Uses Javascript, PHP and Bootstrap 4
+
+##### Link to website
+http://aaroncart.infinityfreeapp.com/Shopping-Cart/index.php
